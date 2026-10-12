@@ -242,15 +242,23 @@ can be reproduced.
 
 <br/><br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Huzaifaarif123&hide_border=true&background=0d1117&stroke=22d3ee&ring=22d3ee&fire=f97316&currStreakLabel=22d3ee&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=Huzaifaarif123&hide_border=true&background=0d1117&stroke=22d3ee&ring=22d3ee&fire=f97316&currStreakLabel=22d3ee&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak" />
 
 <br/><br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Huzaifaarif123&theme=react-dark&bg_color=0d1117&color=22d3ee&line=22d3ee&point=f97316&hide_border=true&area=true" alt="Contribution activity graph" />
+<b>🔥 Contribution Heatmap</b>
+
+<img width="94%" src="https://ghchart.rshah.org/22d3ee/Huzaifaarif123" alt="Contribution heatmap" />
 
 <br/><br/>
 
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=Huzaifaarif123&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub trophies" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Huzaifaarif123&theme=github_dark" alt="Repos per language" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Huzaifaarif123&theme=github_dark" alt="Most commit language" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Huzaifaarif123&theme=github_dark&utcOffset=5" alt="Productive time" />
+
+<br/><br/>
+
+<img width="98%" src="https://github-trophies.vercel.app/?username=Huzaifaarif123&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub trophies" />
 
 </div>
 
